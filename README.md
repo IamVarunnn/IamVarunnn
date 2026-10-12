@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @IamVarunnn
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on MERN
-- 📫 How to reach me varunrakesh16@gmail.com
-<!---
-IamVarunnn/IamVarunnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Gadipally Varun 👋
 
- 
+I'm an Electronics and Communication Engineering graduate interested in backend development and problem-solving.
+
+- 💻 Interested in **Backend Development and Software Engineering**
+- 🧠 Practicing **Data Structures and Algorithms using Java**
+- 🌱 Learning **Spring Boot, REST APIs, Hibernate, and Spring AI**
+- 🤖 Exploring **AI and LLM integration** in backend applications
+- 🛠️ Working with **Java, Spring Boot, MySQL, and Docker**
+- 🤝 Open to collaborating on backend and AI-powered projects
+- 📫 Reach me at [varunrakesh16@gmail.com](mailto:varunrakesh16@gmail.com)
+
